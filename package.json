@@ -1,0 +1,26 @@
+{
+  "name": "angman",
+  "version": "0.0.1",
+  "description": "Angular Based Management App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrouchyBear/angman.git"
+  },
+  "author": "GrouchyBear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrouchyBear/angman/issues"
+  },
+  "homepage": "https://github.com/GrouchyBear/angman#readme",
+  "devDependencies": {
+    "asar": "^0.8.3",
+    "electron-prebuilt": "^0.34.3",
+    "fs-jetpack": "^0.7.0",
+    "q": "^1.4.1",
+    "rcedit": "^0.3.0"
+  }
+}
